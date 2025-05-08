@@ -6,4 +6,11 @@
 ![image](https://github.com/user-attachments/assets/bd1ec0a8-601b-48a9-b4ed-a4c0bbe0159b)
 
 
+![image](https://github.com/user-attachments/assets/7d230a00-b78d-4f41-a113-d7b5f8939bab)
+  DOCKER ::::
+  
+![image](https://github.com/user-attachments/assets/bf93e990-a91b-4df7-99bb-109fea320667)
+LOCAL AND GLOBAL REPO :
+
 ![Uploading image.png…]()
+
